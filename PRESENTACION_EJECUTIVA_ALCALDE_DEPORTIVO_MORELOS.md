@@ -95,7 +95,7 @@ Programa sistemático de exhibiciones y activaciones deportivas en instituciones
 Torneos deportivos bimestrales en 4 categorías:
 - 🏆 Futbol 7 (Categorías: Sub-12, Sub-15, Sub-18)
 - 🏆 Basquetbol 3x3
-- 🏆 Voleibol playa
+- 🏆 Voleibol
 - 🏆 Tocho Bandera
 
 *Premios por torneo:*
@@ -1714,7 +1714,7 @@ $6,406,970 - $4,625,150 = $1,781,820
 **Perfil del Capacitador:**
 - ✅ Certificación FIVB o entrenador con experiencia competitiva
 - ✅ Experiencia mínima 5 años en categorías formativas
-- ✅ Conocimiento de voleibol indoor y playa
+- ✅ Conocimiento de voleibol indoor
 - ✅ Árbitro certificado o conocimiento profundo de reglas
 - ✅ Formación en biomecánica del voleibol
 
